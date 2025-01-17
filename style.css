@@ -15,7 +15,7 @@ body {
 }
 
 .header-title {
-    background-image: url('/images/portL22.jpg'); /* Load background image */
+    background-image: url('/images/portL.jpg'); /* Load background image */
     background-size: cover;
     background-position: center center; 
     color: white;
