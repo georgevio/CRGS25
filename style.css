@@ -6,7 +6,7 @@ body {
 }
 
 .header-title {
-    background-image: url('/images/portL2.jpeg'); /* Load background image */
+    background-image: url('images/portL2.jpeg'); /* Load background image */
     background-size: cover;
     background-position: center center;
     color: white;
@@ -20,7 +20,9 @@ body {
     z-index: 1;
     margin: 0;
     padding: 20px;
+    background: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background to the text for better readability */
 }
+
 
 nav {
     background-color: #575757;
