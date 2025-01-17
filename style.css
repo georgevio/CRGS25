@@ -9,7 +9,7 @@ body {
     background-image: url('images/port_long.jpeg'); /* Load background image */
     background-size: cover;
     background-position: center center;
-    color: white;
+    color: black;
     text-align: center;
     padding: 1em 0;
     position: relative;
