@@ -20,7 +20,8 @@ body {
     z-index: 1;
     margin: 0;
     padding: 20px;
-    background: rgba(0, 0, 0, 0.5); /* Optional: Add a semi-transparent background to the text for better readability */
+    /* Optional: Add a semi-transparent background for better readability */
+    /* background: rgba(0, 0, 0, 0.5); */
 }
 
 
