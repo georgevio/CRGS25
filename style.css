@@ -5,12 +5,13 @@ body {
     background: #f4f4f4;
 }
 
-.header-title {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-    position: relative;
+.header-title { 
+    background: url('path/to/your/image.jpg') no-repeat center center; 
+    background-size: cover; 
+    color: white; 
+    text-align: center; 
+    padding: 1em 0; 
+    position: relative; 
 }
 
 .header-title img {
