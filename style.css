@@ -5,11 +5,11 @@ body {
     background: #f4f4f4;
 }
 
-.header {
+.header-title {
     background-image: url('/images/portL2.jpeg'); /* Load background image */
     background-size: cover;
     background-position: center center; 
-    color: white;
+    color: black;
     text-align: center;
     padding: 1em 0;
     position: relative;
