@@ -6,7 +6,7 @@ body {
 }
 
 .header-title {
-    background-image: url('images/portL2.jpeg'); /* Load background image */
+    background-image: url('images/port_long.jpeg'); /* Load background image */
     background-size: cover;
     background-position: center center;
     color: white;
