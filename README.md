@@ -1,6 +1,6 @@
 # Project Title
 
-Brief description of your project.
+"Cyber-Resilient Gateway Systems: Bridging Safety, Security, and Real-Time Operations" Workshop 2025
 
 ## Table of Contents
 
