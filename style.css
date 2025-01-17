@@ -55,7 +55,7 @@ footer {
 footer img {
     margin: 0 10px; /* Add spacing between images */
     max-width: 200px; /* Set a maximum width for responsive scaling */
-    height: auto; 
+    height: 100px; 
 }
 
 h1, h2 {
