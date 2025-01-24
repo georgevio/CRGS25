@@ -59,7 +59,7 @@ footer {
 
 footer img {
     margin: 0 10px;
-    max-height: 450px; /* Set maximum height */
+    max-height: 250px; /* Set maximum height */
     width: auto; /* Maintain aspect ratio */
 }
 
