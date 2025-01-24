@@ -63,7 +63,7 @@ footer img {
     width: auto; /* Maintain aspect ratio */
 }
 
-footer sponsor-logo {
+footer .sponsor-logo {
     margin: 0 10px;
     max-height: 200px; /* Set maximum height */
     width: auto; /* Maintain aspect ratio */
