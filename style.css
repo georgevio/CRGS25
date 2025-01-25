@@ -91,3 +91,14 @@ h1, h2 {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+/* Add styles for sponsor logo within the main content */
+.main .sponsor-logo {
+    text-align: center;
+    margin-top: 20px; /* Add margin at the top */
+}
+
+.main .sponsor-logo img {
+    max-height: 100px; /* Adjust the size as needed */
+    width: auto;
+}
