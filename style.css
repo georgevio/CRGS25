@@ -25,7 +25,6 @@ body {
     /* background: rgba(0, 0, 0, 0.5); */
 }
 
-
 nav {
     background-color: #575757;
     padding: 1em 0;
@@ -52,9 +51,17 @@ main {
 
 footer {
     display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    padding: 20px; /* Add padding to footer */
+    background-color: #f8f8f8;
+    text-align: center;
+}
+
+footer .footer-images {
+    display: flex;
     justify-content: center;
-    align-items: center; /* Center images vertically */
-    flex-direction: column; /* Stack images vertically */
+    margin-bottom: 10px;
 }
 
 footer img {
@@ -64,9 +71,14 @@ footer img {
 }
 
 footer .sponsor-logo {
-    margin: 0 5px;
+    margin: 20px 0; /* Add margin above and below the sponsor logo */
     max-height: 40px; /* Set maximum height */
     width: auto; /* Maintain aspect ratio */
+}
+
+.sponsor-logo img {
+    max-height: 100px; /* Adjust the size as needed */
+    width: auto;
 }
 
 h1, h2 {
