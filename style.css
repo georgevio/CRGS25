@@ -64,8 +64,8 @@ footer img {
 }
 
 footer .sponsor-logo {
-    margin: 0 10px;
-    max-height: 20px; /* Set maximum height */
+    margin: 0 5px;
+    max-height: 40px; /* Set maximum height */
     width: auto; /* Maintain aspect ratio */
 }
 
