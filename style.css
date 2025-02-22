@@ -66,6 +66,7 @@ footer .footer-images {
 
 .footer-content {
     position: relative;
+    width: 100%; /* Ensure it takes full width */
 }
 
 .footer-note {
@@ -82,8 +83,9 @@ footer img {
 
 footer .sponsor-logo {
     margin: 20px 0; /* Add margin above and below the sponsor logo */
-    max-height: 40px; /* Set maximum height */
-    width: auto; /* Maintain aspect ratio */
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .sponsor-logo img {
