@@ -64,6 +64,18 @@ footer .footer-images {
     margin-bottom: 10px;
 }
 
+
+.footer-content {
+    position: relative;
+}
+
+.footer-note {
+    clear: both;
+    text-align: center;
+    padding-top: 10px; /* Adjust this value as needed */
+}
+
+
 footer img {
     margin: 0 10px;
     max-height: 250px; /* Set maximum height */
