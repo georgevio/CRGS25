@@ -1,7 +1,7 @@
-# Project Title
+# Workshop CRGS 2025
 
 "Cyber-Resilient Gateway Systems: Bridging Safety, Security, and Real-Time Operations" Workshop 2025
-within the [DSN2025 conference](https://dsn2025.github.io/) in Naples, Italy, June 2025
+within the [DSN2025 conference](https://dsn2025.github.io/) in Naples, Italy, June 2025.
 
 ## Table of Contents
 
